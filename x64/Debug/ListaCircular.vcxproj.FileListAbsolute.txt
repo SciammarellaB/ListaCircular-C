@@ -1,0 +1,2 @@
+C:\Users\sciam\Desktop\ESTUDOS\ListaCircular\ListaCircular\x64\Debug\ListaCircular.exe
+C:\Users\sciam\Desktop\ESTUDOS\ListaCircular-C\x64\Debug\ListaCircular.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\sciam\Desktop\ESTUDOS\ListaCircular-C\main.c(34,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\sciam\Desktop\ESTUDOS\ListaCircular-C\main.c(151,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\sciam\Desktop\ESTUDOS\ListaCircular-C\main.c(98): warning C4715: 'limpar': not all control paths return a value
+  ListaCircular.vcxproj -> C:\Users\sciam\Desktop\ESTUDOS\ListaCircular-C\x64\Debug\ListaCircular.exe
